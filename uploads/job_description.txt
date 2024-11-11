@@ -1,0 +1,29 @@
+Senior Data Scientist  - Pakistan
+ 
+Afiniti uses data science to enhance human interactions in large enterprises by efficiently pairing customers or tasks with company representatives. Our primary focus is improving contact center interactions for sales, service, retention, collections, and customer satisfaction in fields ranging from telecommunications to healthcare to banking to hospitality. To ensure we’re delivering value, we measure performance using a real-time control group – routing a portion of calls using the client’s existing system and the majority of calls using our data-scientist-designed pairing and next-best-action recommendation strategies.
+ 
+Key Responsibilities
+Perform statistical inference on large data sets to inform decisions and drive actions.
+Drill down on results (problem-solving analysis) and conduct custom analysis.
+Build predictive models to optimize agent and customer interactions
+Collaborate and communicate with data analytics, and cross-functional teams on a task basis.
+Adapt theoretical concepts and standardized techniques to real-world problems
+Lead production activities on deployed accounts, or execute on deployment plan.
+Minimum Qualifications
+Bachelors or Masters in Computer Science, Mathematics, Economics, Physics, Engineering or related quantitative field.
+4-5 years of working experience in relevant field.
+Programming experience in one or more of the following languages i.e. R/Python/ Julia/SQL.
+Experience with statistics, machine learning, linear programming, or mathematical optimization, both practical and theoretical
+Strong attention to details.
+Preferred Qualifications
+Excellent skills at distilling complex, ambiguous scenarios into tractable models
+Proficiency in R and Python
+Experience with data analysis, data visualization, programming, processing large data sets
+Familiarity with SQL, relational databases, version control, and tools for reproducibility such as git, Jupyter and R Markdown, make, or authoring custom packages
+Demonstrated ability to manage time independently and take projects to completion
+Willingness to learn new techniques
+Ability to document and explain cutting-edge techniques to other team members
+Comfort working in a collaborative environment with cross-team communication to bring projects into production
+Familiarity with Bayesian statistics, hierarchical modeling, MCMC algorithms, latent factor models
+Location/Remote work statement
+This is a hybrid opportunity required to work in EST Hours
