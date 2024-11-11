@@ -1,14 +1,13 @@
-from dotenv import load_dotenv
-from openai import OpenAI
+import openai
+import streamlit as st
 
-import os 
+# Access OpenAI API key from Streamlit Secrets
+openai_api_key = st.secrets["openai"]["api_key"]
 
-
-#Initialize and constants
-load_dotenv()
-os.environ['OPENAI_API_KEY'] = os.getenv('OPENAI_API_KEY')
+# Set up the OpenAI client
+openai.api_key = openai_api_key
 MODEL = 'gpt-4o-mini'
-openai = OpenAI()
+#openai = OpenAI()
 
 
 def optimize_resume_for_ats(job_description, resume):
