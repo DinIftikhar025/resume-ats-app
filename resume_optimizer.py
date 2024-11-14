@@ -1,6 +1,6 @@
 import openai
 import streamlit as st
-from IPython.display import Markdown, display, update_display
+#from IPython.display import Markdown, display, update_display
 
 # Access OpenAI API key from Streamlit Secrets
 openai_api_key = st.secrets["openai"]["api_key"]
@@ -44,11 +44,11 @@ def optimize_resume_for_ats(job_description, resume):
     Name
     title
     contact, email, profiles etc
-    Profession Summary
+    Profession Summary   # You can go out of the box according to the JD in this section only but not completely out of resume content.
     Core skills
     Experience
     Education
-    Projects/Certifications/Hobbies/languages/references, not necessary you include all these!
+    Projects/Certifications/Hobbies/languages/references #not necessary you include all these!
     """
 
     try:

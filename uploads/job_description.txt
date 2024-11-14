@@ -1,29 +1,29 @@
-Senior Data Scientist  - Pakistan
- 
-Afiniti uses data science to enhance human interactions in large enterprises by efficiently pairing customers or tasks with company representatives. Our primary focus is improving contact center interactions for sales, service, retention, collections, and customer satisfaction in fields ranging from telecommunications to healthcare to banking to hospitality. To ensure we’re delivering value, we measure performance using a real-time control group – routing a portion of calls using the client’s existing system and the majority of calls using our data-scientist-designed pairing and next-best-action recommendation strategies.
- 
-Key Responsibilities
-Perform statistical inference on large data sets to inform decisions and drive actions.
-Drill down on results (problem-solving analysis) and conduct custom analysis.
-Build predictive models to optimize agent and customer interactions
-Collaborate and communicate with data analytics, and cross-functional teams on a task basis.
-Adapt theoretical concepts and standardized techniques to real-world problems
-Lead production activities on deployed accounts, or execute on deployment plan.
-Minimum Qualifications
-Bachelors or Masters in Computer Science, Mathematics, Economics, Physics, Engineering or related quantitative field.
-4-5 years of working experience in relevant field.
-Programming experience in one or more of the following languages i.e. R/Python/ Julia/SQL.
-Experience with statistics, machine learning, linear programming, or mathematical optimization, both practical and theoretical
-Strong attention to details.
-Preferred Qualifications
-Excellent skills at distilling complex, ambiguous scenarios into tractable models
-Proficiency in R and Python
-Experience with data analysis, data visualization, programming, processing large data sets
-Familiarity with SQL, relational databases, version control, and tools for reproducibility such as git, Jupyter and R Markdown, make, or authoring custom packages
-Demonstrated ability to manage time independently and take projects to completion
-Willingness to learn new techniques
-Ability to document and explain cutting-edge techniques to other team members
-Comfort working in a collaborative environment with cross-team communication to bring projects into production
-Familiarity with Bayesian statistics, hierarchical modeling, MCMC algorithms, latent factor models
-Location/Remote work statement
-This is a hybrid opportunity required to work in EST Hours
+JOB TITLE: Data Scientist
+
+DEPARTMENT: Software Development
+
+REPORTS TO: Project Director
+
+PURPOSE:
+
+We’re looking for a Data Scientist to join our dynamic team. In this role, you will play an essential part in developing and maintaining predictive models that forecast trends, behaviors, and outcomes to shape strategic decision-making. If you have a strong foundation in statistical analysis and machine learning, a passion for data manipulation and preprocessing, and a desire to grow in a collaborative environment, we encourage you to apply.
+
+KEY RESPONSIBILTIES:
+
+Model Development & Maintenance: Develop and maintain predictive models using statistical and machine learning techniques, such as linear regression, decision trees, and time series forecasting. Continuously optimize model performance through data preprocessing, feature engineering, and handling missing data.
+Data Analysis & Preprocessing: Clean and preprocess large datasets to ensure high data quality and improve model accuracy. Conduct feature engineering to enhance model performance and extract valuable insights from raw data.
+Collaboration & Problem-Solving: Work closely with senior data scientists and cross-functional teams to understand business requirements and translate them into actionable data-driven solutions. Contribute to collaborative efforts in model validation, testing, and evaluation to ensure the reliability and accuracy of predictions.
+Communication of Insights: Present complex data findings and analytical insights clearly and concisely to non-technical stakeholders, supporting business strategy with actionable recommendations.
+Continuous Learning & Innovation: Stay updated with advancements in predictive analytics and machine learning methodologies. Actively contribute to improving data quality, automating model pipelines, and refining internal processes for better efficiency.
+Cloud Platforms: Exposure to cloud platforms like AWS or Google Cloud for data storage and model deployment.
+Big Data Technologies: Familiarity with big data frameworks such as Spark and Hadoop is a plus.
+Data Visualization: Experience with tools like Tableau, Power BI, and libraries such as Matplotlib and Seaborn to visualize insights effectively.
+Version Control Systems: Understanding of version control systems (e.g., Git) to collaborate in a team-based environment.
+QUALIFICATIONS, SKILLS, AND EXPERIENCE:
+
+At least Bachelor’s degree in a relevant field like Data Science, Computer Science, Statistics, Mathematics, or Engineering. Master’s degree or Ph.D. in a related discipline is preferred.
+2-4 years of hands-on experience in data science with a focus on predictive analytics and modeling.
+Strong understanding of statistical methods and machine learning algorithms, including linear regression, decision trees, and time series forecasting.
+Proficiency in Python (NumPy, Pandas, Scikit-learn) and SQL for data analysis, manipulation, and model development.
+Experience in handling missing data, data cleaning, and performing feature engineering to optimize model performance.
+Familiarity with model evaluation techniques such as cross-validation, AUC, precision/recall metrics, and other validation methods.
