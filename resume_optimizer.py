@@ -1,5 +1,6 @@
 import openai
 import streamlit as st
+from IPython.display import Markdown, display, update_display
 
 # Access OpenAI API key from Streamlit Secrets
 openai_api_key = st.secrets["openai"]["api_key"]
@@ -52,18 +53,23 @@ def optimize_resume_for_ats(job_description, resume):
 
     try:
         # Query OpenAI API to get the optimized resume and ATS score
-        response = openai.chat.completions.create(
+        stream = openai.chat.completions.create(
             model=MODEL,  # You can also use "gpt-3.5-turbo" for cheaper alternatives
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
             ],
             max_tokens=1500,  # Adjust this to a larger value if needed
-            temperature=0.7,  # Controls randomness in the output
+            stream=True
         )
-
+        optimized_text = ""
+        #display_handle = display(Markdown(""), display_id=True)
+        for chunk in stream:
+            optimized_text += chunk.choices[0].delta.content or ''
+            optimized_text = optimized_text.replace("```","").replace("markdown", "")
+            #update_display(Markdown(optimized_text), display_id=display_handle.display_id)
         # Extract the response (this will contain the optimized resume and ATS score)
-        optimized_text = response.choices[0].message.content.strip()
+        #optimized_text = response.choices[0].message.content.strip()
 
         # Debugging: Print the raw response to understand its structure
         #print("Raw Response from OpenAI:")
